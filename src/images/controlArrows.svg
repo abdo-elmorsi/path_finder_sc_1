@@ -1,0 +1,39 @@
+<svg width="53" height="53" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path id="svg_2" data-name="Ellipse 300" fill-rule="evenodd" fill="#fff" d="m1.50002,26.45a25,25 0 1 1 0,0.1" xmlns="http://www.w3.org/2000/svg"/>
+   <g id="svg_3" data-name="Group 6524" xmlns="http://www.w3.org/2000/svg">
+    <g id="svg_4" data-name="Component 23 – 1">
+     <g id="svg_5" data-name="Polygon 6">
+      <path id="svg_6" fill-rule="evenodd" fill="#0e1726" d="m26.00002,2.5l4.5,9l-9,0l4.5,-9z"/>
+      <path id="svg_7" stroke-width="1.11111" fill="transparent" stroke="#0e1726" stroke-linecap="round" stroke-linejoin="round" d="m26.00002,2l5,10l-10,0l5,-10z"/>
+     </g>
+    </g>
+    <g id="svg_8" data-name="Component 23 – 2">
+     <g id="svg_9" data-name="Polygon 6">
+      <path id="svg_10" fill-rule="evenodd" fill="#0e1726" d="m28.00002,50.5l-4.5,-9l9,0l-4.5,9z"/>
+      <path id="svg_11" stroke-width="1.11111" fill="transparent" stroke="#0e1726" stroke-linecap="round" stroke-linejoin="round" d="m28.00002,51l-5,-10l10,0l-5,10z"/>
+     </g>
+    </g>
+    <g id="svg_12" data-name="Component 23 – 3">
+     <g id="svg_13" data-name="Polygon 6">
+      <path id="svg_14" fill-rule="evenodd" fill="#0e1726" d="m50.50002,25l-9,4.5l0,-9l9,4.5z"/>
+      <path id="svg_15" stroke-width="1.11111" fill="transparent" stroke="#0e1726" stroke-linecap="round" stroke-linejoin="round" d="m51.00002,25l-10,5l0,-10l10,5z"/>
+     </g>
+    </g>
+    <g id="svg_16" data-name="Component 23 – 4">
+     <g id="svg_17" data-name="Polygon 6">
+      <path id="svg_18" fill-rule="evenodd" fill="#0e1726" d="m2.50002,27l9,-4.5l0,9l-9,-4.5z"/>
+      <path id="svg_19" stroke-width="1.11111" fill="transparent" stroke="#0e1726" stroke-linecap="round" stroke-linejoin="round" d="m2.00002,27l10,-5l0,10l-10,-5z"/>
+     </g>
+    </g>
+    <g id="svg_20" data-name="Component 22 – 1">
+     <path id="svg_21" data-name="Ellipse 301" fill-rule="evenodd" fill="#0e1726" d="m19.50002,26.95a7.5,7.5 0 1 1 0,0.1"/>
+     <path id="svg_22" data-name="Ellipse 302" fill-rule="evenodd" fill="#1b2e4b" d="m21.50002,26.95a5.5,5.5 0 1 1 0,0.1"/>
+    </g>
+   </g>
+  </g>
+ </g>
+
+</svg>

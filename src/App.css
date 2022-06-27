@@ -1,0 +1,46 @@
+* {
+    color: "#fff";
+}
+.App {
+    text-align: center;
+    color: "#fff";
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 2s linear alternate;
+    }
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+a.active:not(.navbar-brand) {
+    color: rgb(211, 164, 46) !important;
+    font-weight: bold;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg) translate(20px);
+    }
+    to {
+        transform: rotate(360deg) translate(-20px);
+    }
+}
+
+.btn.arrow:focus {
+    box-shadow: none;
+}
+
+input.react-datetime-picker__inputGroup__input {
+    color: white !important;
+}

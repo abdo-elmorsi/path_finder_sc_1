@@ -1,0 +1,138 @@
+/* Login Page ROW*/
+.login_component {
+    background-color: #07031a;
+    height: 100vh;
+}
+
+.login_page {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* FORM SIDE */
+.login_form_side__col {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 85px 0;
+    position: relative;
+    align-items: center;
+}
+
+/* Header */
+.login_form_side__header {
+    color: #fff;
+    margin-bottom: 20px;
+    width: 70%;
+}
+
+.login_form_side__header_span {
+    width: 100%;
+    display: block;
+    text-align: start;
+}
+
+.login_form_side__header_h1 {
+    color: #d3a42e;
+    text-align: left;
+}
+
+/* Form */
+.login_form_side__form {
+    width: 70%;
+}
+
+.login_form_side__form_button {
+    background-color: #d3a42e !important;
+    color: #fff;
+    padding: 10px 20px;
+    border-width: 0;
+    border-radius: 5px;
+    display: block;
+    margin-top: 20px;
+}
+
+.login_form_side__form_forget_password {
+    margin-top: 20px;
+    text-decoration: none;
+    color: #d3a42e;
+}
+
+/* Password Viewer */
+.login__form_inputes .form-check-input {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'><circle r='3' fill='rgba(211, 146, 46, 1)'/></svg>");
+    background-color: #1b2e4b;
+    cursor: pointer;
+}
+
+.login__form_inputes .form-check-input:focus {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'><circle r='3' fill='rgba(211, 146, 46, 1)'/></svg>");
+    background-color: #1b2e4b;
+    border-color: #d3a42e;
+    box-shadow: none;
+}
+
+.login__form_inputes .form-check-input:checked {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='-4 -4 8 8'><circle r='3' fill='rgba(255, 255, 255, 1)'/></svg>");
+    background-color: #d3a42e;
+    border: 0
+}
+
+/* Keep me logged in */
+.keep_me_logged_in .form-check-input {
+    background-color: transparent;
+    border-radius: 50% !important;
+    border: 2px solid #d3a42e;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.keep_me_logged_in .form-check-input:checked {
+    background-color: #d3a42e !important;
+}
+
+.keep_me_logged_in .keep_me_logged_in_label {
+    margin-bottom: 0 !important;
+}
+
+
+/* Copy rights */
+.pathfinder_copy_rights {
+    color: #fff;
+    position: absolute;
+    left: 50%;
+    bottom: 5%;
+    transform: translate(-50%, 0);
+    text-transform: capitalize;
+}
+
+.pathfinder_copy_rights .pathfinder_copy_rights__teamname {
+    text-transform: uppercase;
+    color: #d3a42e;
+}
+
+/* Image Section */
+.login_image_side {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.login_image_side img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+/* Page Media */
+@media (max-width: 480px) {
+    .pathfinder_copy_rights {
+        font-size: 12px;
+        width: 100%;
+    }
+}
